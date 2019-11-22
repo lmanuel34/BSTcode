@@ -1,7 +1,7 @@
 # BSTcode using c++ Templates
 c++. A program that takes user inputs to Create, Modify, and print a BST.
 
-Usage
+Usage:
 This is a project that used templates in c++ to create a user based BST
 
 
